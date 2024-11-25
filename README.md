@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I’m Dmytro Zuiev
 
-I am a **Full-Stack Developer** with a strong foundation in **C, C++**, and **Bash** for system-level programming, alongside **JavaScript, HTML/CSS**, and **Node.js** for web development. Currently, I'm honing my skills through project-based learning at **42 London** while working on AI-driven web applications and browser extensions.
+I am a **Full-Stack Developer** with a strong foundation in **C, C++**, and **Bash** for system-level programming, alongside **JavaScript/TypeScript, HTML/CSS**, and **Node.js** for web development. Currently, I'm honing my skills through project-based learning at **42 London** while working on AI-driven web applications and browser extensions.
 
 With expertise ranging from **low-level system programming** to **full-stack development**, I thrive on tackling diverse technical challenges. I am open to collaborating on innovative projects where I can contribute my comprehensive skill set and continue growing in a dynamic development environment.
 
