@@ -1,17 +1,13 @@
 ---
 
-## 👋 Hi, I’m Dmytro Zuiev
+### **👋 Hi, I’m Dmytro Zuiev!**  
 
-I am a **Full-Stack Developer** with a strong foundation in **C, C++**, and **Bash** for system-level programming, alongside **JavaScript/TypeScript, HTML/CSS**, and **Node.js** for web development. Currently, I'm honing my skills through project-based learning at **42 London** while working on AI-driven web applications and browser extensions.
+I’m a **Full-Stack Developer** with a background that’s anything but ordinary. After running a successful **luxury travel business** for over a decade, I made a bold transition into tech—driven by a fascination with **AI, automation, and scalable software solutions**.  
 
-With expertise ranging from **low-level system programming** to **full-stack development**, I thrive on tackling diverse technical challenges. I am open to collaborating on innovative projects where I can contribute my comprehensive skill set and continue growing in a dynamic development environment.
+Now, I specialize in **JavaScript, Node.js, PostgreSQL, and AI-powered applications**, building systems that blend **efficiency, intelligence, and real-world impact**. My expertise spans **geolocation-based applications, backend optimization, and CI/CD automation**, with a strong foundation in **problem-solving and business-driven development**.  
 
-### Skills and Expertise
-- **Languages**: C, C++, JavaScript, Bash scripting
-- **Web Development**: Node.js, Express.js, HTML5, CSS3, MongoDB
-- **System Programming**: UNIX/Linux, Process Management, Multithreading
-- **Projects**: AI-driven **Therapoetry**, **Chrome Extensio**n for auto auctions
+What sets me apart? **Adaptability, resilience, and a strategic mindset.** I don’t just write code—I **solve problems, optimize processes, and think beyond the feature set** to deliver meaningful, high-impact solutions.  
 
-I'm actively seeking new opportunities and open to collaborating on any exciting projects. Feel free to get in touch!
+🚀 **Always open to new challenges, collaborations, and opportunities.** Let’s connect!  
 
 ---
