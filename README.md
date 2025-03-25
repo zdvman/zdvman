@@ -1,6 +1,5 @@
-<!-- GitHub README (Electric Theme Refined: Fixed Heights, Readable Titles, No Horizontal Lines) -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1500&color=00F9FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Dmytro+Zuiev!;Full-Stack+Dev+%7C+AI+Builder+%7C+42+London+%26+Northcoders;Luxury+Travel+Agent" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1200&color=00F9FF&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Dmytro+Zuiev!;Full-Stack+JavaScript+Developer+%7C+Backend-Focused;Backend%3A+Node.js+%7C+Express.js+%7C+CI%2FCD+%7C+TDD;Frontend%3A+Next.js+%7C+React+%7C+React+Native;Ex-Luxury+Travel+Pro+turned+Engineer;AI-Driven+%26+User-Focused+Solutions;Innovation+%2B+Impact+%3D+Code" />
 </h1>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black" />
