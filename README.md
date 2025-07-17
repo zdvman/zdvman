@@ -30,7 +30,7 @@
   <img src="https://komarev.com/ghpvc/?username=zdvman&style=flat-square&color=00F9FF" alt="profile views" />
 </p>
 <div align="center">
-    <a href="mailto:zuyevdmytro@gmail.com"><img src="https://img.icons8.com/ios-filled/24/ffffff/gmail.png"/></a>
+    <a href="mailto:dmytro.zuiev.it@gmail.com"><img src="https://img.icons8.com/ios-filled/24/ffffff/gmail.png"/></a>
     <a href="https://github.com/zdvman"><img src="https://img.icons8.com/ios-filled/24/ffffff/github.png"/></a>
     <a href="https://linkedin.com/in/zdvman"><img src="https://img.icons8.com/ios-filled/24/ffffff/linkedin.png"/></a>
     <a href="https://instagram.com/zdvman"><img src="https://img.icons8.com/ios-filled/24/ffffff/instagram-new.png"/></a>
