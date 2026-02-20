@@ -17,26 +17,11 @@
 <p align="center">
   Full-stack developer for <b>AI products</b> and <b>Chrome extensions</b>.<br/>
   I design and ship production-ready JavaScript systems: Chrome extensions, real-time web apps, and AI-assisted workflows.<br/>
-  Most recently I built <b>AutoInsight</b> — a commercial Chrome extension + web platform for Copart/IAAI operators with instant client ↔ operator collaboration.
+  Most recently I built <b>AutoInsight</b> - a commercial Chrome extension + web platform for Copart/IAAI operators with instant client ↔ operator collaboration.
 </p>
 
 <p align="center">
-  I combine hands-on engineering with business ownership experience (Damax Travel, 2012–2024) to deliver products that are reliable, clear to use, and fast to iterate.
-</p>
-
-<p align="center">
-  <a href="https://www.dmytrozuiev.com/en">
-    <img src="https://img.shields.io/badge/Portfolio-00F9FF?style=flat&logo=vercel&logoColor=000" />
-  </a>
-  <a href="https://www.dmytrozuiev.com/CV_Dmytro_Zuiev.pdf">
-    <img src="https://img.shields.io/badge/CV_(PDF)-00F9FF?style=flat&logo=adobeacrobatreader&logoColor=000" />
-  </a>
-  <a href="mailto:dmytro.zuiev.it@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00F9FF?style=flat&logo=gmail&logoColor=000" />
-  </a>
-  <a href="https://linkedin.com/in/zdvman">
-    <img src="https://img.shields.io/badge/LinkedIn-00F9FF?style=flat&logo=linkedin&logoColor=000" />
-  </a>
+  I combine hands-on engineering with business ownership experience to deliver products that are reliable, clear to use, and fast to iterate.
 </p>
 
 <p align="center">
@@ -54,8 +39,6 @@
   <img src="https://img.shields.io/badge/Anthropic_(Claude)-5A67D8?style=flat" />
 </p>
 
-<hr/>
-
 <h2 align="center">What I build</h2>
 
 <p align="center">
@@ -65,47 +48,7 @@
 
 <hr/>
 
-<h2 align="center">Selected projects</h2>
-
-<p align="center">
-  🚀 <b>AutoInsight</b> — Chrome extension + web platform for Copart/IAAI operators (commercial, private code)<br/>
-  <a href="https://www.autoinsight.pro">Live</a> •
-  <a href="https://chromewebstore.google.com/detail/autoinsight/kcmkmnalmfciphkbmnhgdgeckifkkbbf">Chrome Web Store</a> •
-  <a href="https://www.autoinsight.pro/guide">User Guide</a>
-</p>
-
-<p align="center">
-  ☕ <b>Bean Remote (API)</b> — Node/Express + PostgreSQL/PostGIS backend for geolocation-heavy searching & filtering<br/>
-  <a href="https://be-bean-remote.onrender.com">Live API</a> •
-  <a href="https://github.com/zdvman/be-bean-remote">Repo</a>
-</p>
-
-<p align="center">
-  🧠 <b>Poetry Therapy</b> — AI tool for speech therapists generating customized therapeutic poems<br/>
-  <a href="https://therapoetry.dmytrozuiev.com">Live</a> •
-  <a href="https://github.com/zdvman/therapoetry">Repo</a>
-</p>
-
-<p align="center">
-  🗞️ <b>NC News</b> — full-stack Reddit-style app (view/vote/comment)<br/>
-  <a href="https://nc-news-zdvman.netlify.app">Live</a> •
-  <a href="https://github.com/zdvman/nc-news">FE Repo</a> •
-  <a href="https://github.com/zdvman/be-nc-news">BE Repo</a>
-</p>
-
-<p align="center">
-  ❤️ <b>Anthony Nolan AI chatbot</b> — AI-powered chatbot prototype for a blood cancer charity<br/>
-  <a href="https://anthonynolan-chatbot.vercel.app">Test Version</a>
-</p>
-
-<hr/>
-
 <h2 align="center">GitHub stats</h2>
-
-<!--
-These cards are generated & committed by GitHub Actions into /profile/*.svg
-So they render as normal repo files (no external 401/503/rate-limits for visitors).
--->
 
 <p align="center">
   <img src="./profile/stats.svg" height="165" alt="GitHub stats" />
