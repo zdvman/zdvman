@@ -59,11 +59,6 @@
   <img src="./profile/top-langs.svg" height="165" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img src="./profile/pin-be-bean-remote.svg" height="120" alt="Pinned: be-bean-remote" />
-  <img src="./profile/pin-therapoetry.svg" height="120" alt="Pinned: therapoetry" />
-</p>
-
 <hr/>
 
 <p align="center"><i style="color:#00F9FF">“Code is how I shape ideas into impact.”</i></p>
