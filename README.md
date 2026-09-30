@@ -1,78 +1,64 @@
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00F9FF,100:00C7B7&height=120&section=header"
-    alt="header"
-  />
-</div>
-
-<h1 align="center">Dmytro Zuiev</h1>
+<a href="https://www.dmytrozuiev.com">
+  <img src="./profile/hero.svg" width="100%" alt="Dmytro Zuiev. Product engineer and independent builder. Automotive tech, travel tech and practical AI." />
+</a>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=00F9FF&center=true&vCenter=true&width=950&lines=Full-stack+developer+for+AI+products+and+Chrome+extensions;Production-ready+JavaScript+systems:+Node.js+%7C+PostgreSQL+%7C+CI%2FCD+%7C+TDD;Chrome+Extensions+%7C+Real-time+Web+Apps+%7C+AI-assisted+Workflows"
-    alt="Typing SVG"
-  />
+  <a href="https://www.dmytrozuiev.com"><b>PORTFOLIO ↗</b></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://autoinsight.pro"><b>AUTOINSIGHT ↗</b></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://www.dmytrozuiev.com/en/contact"><b>LET'S TALK ↗</b></a>
 </p>
+
+I'm an independent product builder with a background in travel and real estate. I bring business experience into hands-on engineering, from the first product decisions to architecture, integrations and delivery.
+
+<br />
+
+<a href="https://autoinsight.pro">
+  <img src="./profile/autoinsight-showcase.png" width="100%" alt="AutoInsight in action: save a Ferrari lot from Copart and prepare a private client selection. Actual screenshots from autoinsight.pro." />
+</a>
+
+**AutoInsight** connects auction research with client decisions. Brokers collect Copart and IAAI lots, create selections, share a link and keep chat, likes, max bids and reports attached to each vehicle.
+
+`Next.js` `TypeScript` `Firebase` `Chrome Extension` `Stripe`
+
+**[Explore the live product ↗](https://autoinsight.pro)** · **[Install the extension ↗](https://chromewebstore.google.com/detail/autoinsight/kcmkmnalmfciphkbmnhgdgeckifkkbbf)**
+
+<details>
+<summary><b>More screens from AutoInsight</b></summary>
+<br />
+<p><b>The public website</b></p>
+<a href="https://autoinsight.pro"><img src="./profile/autoinsight-home.jpg" width="100%" alt="The English AutoInsight homepage, captured on 30 September 2026." /></a>
+<br />
+<p><b>The extension on an IAAI lot page</b></p>
+<img src="./profile/autoinsight-iaai.png" width="100%" alt="AutoInsight capture button on an IAAI auction page, from the product's public screenshot gallery." />
+</details>
+
+<br />
+
+<img src="./profile/maldives.svg" width="100%" alt="Maldives AI Search and Offer Engine, in development. Planned flow: hotel contracts, AI interpretation, validation and review, deterministic calculation, explainable offers." />
+
+**Maldives AI Search & Offer Engine** is my next product: turning complex resort contracts into structured rules for hotel search and offer calculation.
+
+The architecture gives AI a specific job: interpret documents and prepare structured inputs. Validated business rules govern the planned calculation engine.
+
+`TypeScript` `Next.js` `Node.js` `Document AI` `Rule-based pricing`
+
+<br />
+
+### Behind the products
+
+**Business ownership → product thinking → engineering execution.**
+
+I care about clear interfaces, explainable business rules and software that can grow without becoming difficult to maintain. My work spans web platforms, browser extensions, APIs, payments and practical AI workflows.
+
+Outside software: cars, travel, skiing, cycling and guitars. Lately, I've been getting interested in guitar restoration and the precision behind a well-built instrument.
+
+**Ukrainian roots. Based in Austria.**
+
+<br />
 
 <p align="center">
-  Full-stack developer for <b>AI products</b> and <b>Chrome extensions</b>.<br/>
-  I design and ship production-ready JavaScript systems: Chrome extensions, real-time web apps, and AI-assisted workflows.<br/>
-  Most recently I built <b>AutoInsight</b> - a commercial Chrome extension + web platform for Copart/IAAI operators with instant client ↔ operator collaboration.
+  <b>Have a product worth building?</b><br />
+  <a href="https://www.dmytrozuiev.com/en/contact">Let's talk about it ↗</a>
 </p>
-
-<p align="center">
-  I combine hands-on engineering with business ownership experience to deliver products that are reliable, clear to use, and fast to iterate.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Express-111111?style=flat&logo=express&logoColor=fff" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=fff" />
-  <img src="https://img.shields.io/badge/PostGIS-0074A8?style=flat" />
-  <img src="https://img.shields.io/badge/React-111111?style=flat&logo=react&logoColor=00D8FF" />
-  <img src="https://img.shields.io/badge/Next.js-111111?style=flat&logo=nextdotjs&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=000" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat&logo=githubactions&logoColor=fff" />
-  <img src="https://img.shields.io/badge/OpenAI-41424B?style=flat&logo=openai&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Anthropic_(Claude)-5A67D8?style=flat" />
-</p>
-
-<h2 align="center">What I build</h2>
-
-<p align="center">
-  <b>Chrome extensions</b> • <b>Real-time web apps</b> • <b>AI-assisted workflows</b><br/>
-  Backend-first systems with clean architecture, tests, and CI/CD.
-</p>
-
-<hr/>
-
-<h2 align="center">GitHub stats</h2>
-
-<p align="center">
-  <img src="./profile/stats.svg" height="165" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=zdvman&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="./profile/top-langs.svg" height="165" alt="Top languages" />
-</p>
-
-<hr/>
-
-<p align="center"><i style="color:#00F9FF">“Code is how I shape ideas into impact.”</i></p>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=zdvman&style=flat-square&color=00F9FF"
-    alt="profile views"
-  />
-</p>
-
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00F9FF,100:00C7B7&height=110&section=footer"
-    alt="footer"
-  />
-</div>
