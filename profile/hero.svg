@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="590" viewBox="0 0 1600 590" role="img" aria-labelledby="title desc">
+  <title id="title">Dmytro Zuiev, product engineer and independent builder</title>
+  <desc id="desc">I build the products I want to exist. Automotive technology, travel technology and practical AI. Building AutoInsight and Maldives.</desc>
+  <defs>
+    <clipPath id="frame"><rect x="1" y="1" width="1598" height="588" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1600" height="590" fill="#0a1017"/>
+    <path d="M1014 0V507M0 508H1600" fill="none" stroke="#24313a" stroke-width="1"/>
+    <path d="M1528 77H1474M1528 77V131M1086 405V459M1086 459H1140" fill="none" stroke="#3b5558" stroke-width="1.5"/>
+    <rect x="72" y="65" width="10" height="10" fill="#d5ff70"/>
+    <text x="99" y="78" fill="#d9e1dd" font-family="Arial,DejaVu Sans,sans-serif" font-size="18" font-weight="700" letter-spacing="2.5">PRODUCT ENGINEER / INDEPENDENT BUILDER</text>
+    <text x="65" y="232" fill="#f5f5ed" font-family="Arial,DejaVu Sans,sans-serif" font-size="146" font-weight="700" letter-spacing="-7">Dmytro</text>
+    <text x="65" y="365" fill="#f5f5ed" font-family="Arial,DejaVu Sans,sans-serif" font-size="146" font-weight="700" letter-spacing="-7">Zuiev<tspan fill="#d5ff70">.</tspan></text>
+    <text x="74" y="443" fill="#a9b9bd" font-family="Arial,DejaVu Sans,sans-serif" font-size="28" letter-spacing="-.5">I build the products I want to exist.</text>
+
+    <g fill="none" stroke-linejoin="round">
+      <path d="M1108 152V354H1145C1213 354 1242 316 1242 253C1242 190 1213 152 1145 152Z" stroke="#d5ff70" stroke-width="37"/>
+      <path d="M1295 152H1464L1295 354H1464" stroke="#d5ff70" stroke-width="37"/>
+      <path d="M1093 122H1145C1233 122 1272 170 1272 253C1272 336 1233 384 1145 384H1078V176" stroke="#244e4d" stroke-width="2"/>
+      <path d="M1295 122H1494V170L1371 324H1494V384H1295" stroke="#244e4d" stroke-width="2"/>
+    </g>
+    <circle cx="1078" cy="176" r="5" fill="#5ab7a7"/>
+    <circle cx="1295" cy="384" r="5" fill="#5ab7a7"/>
+    <text x="1123" y="437" fill="#a9b9bd" font-family="Arial,DejaVu Sans,sans-serif" font-size="17" letter-spacing="2.3">IDEA / SYSTEM / PRODUCT</text>
+
+    <text x="74" y="555" fill="#b4c0c5" font-family="Arial,DejaVu Sans,sans-serif" font-size="17" font-weight="700" letter-spacing="1.5">AUTOMOTIVE TECH / TRAVEL TECH / PRACTICAL AI</text>
+    <circle cx="1090" cy="548" r="4" fill="#d5ff70"/>
+    <text x="1105" y="555" fill="#f5f5ed" font-family="Arial,DejaVu Sans,sans-serif" font-size="17" font-weight="700">AutoInsight</text>
+    <text x="1232" y="554" fill="#81939b" font-family="Arial,DejaVu Sans,sans-serif" font-size="11" letter-spacing="1">LIVE</text>
+    <circle cx="1292" cy="548" r="4" fill="#5ab7a7"/>
+    <text x="1307" y="555" fill="#f5f5ed" font-family="Arial,DejaVu Sans,sans-serif" font-size="17" font-weight="700">Maldives</text>
+    <text x="1401" y="554" fill="#81939b" font-family="Arial,DejaVu Sans,sans-serif" font-size="11" letter-spacing="1">IN DEVELOPMENT</text>
+  </g>
+  <rect x="1" y="1" width="1598" height="588" rx="24" fill="none" stroke="#24313a" stroke-width="2"/>
+</svg>

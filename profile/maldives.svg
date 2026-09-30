@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="620" viewBox="0 0 1600 620" role="img" aria-labelledby="title desc">
+  <title id="title">Maldives: AI search and offer engine</title>
+  <desc id="desc">A project in development. System design: hotel contracts are interpreted with AI, then validated and reviewed before deterministic calculations produce explainable offers.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08191e"/><stop offset="1" stop-color="#103842"/></linearGradient>
+    <linearGradient id="box" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#15353c"/><stop offset="1" stop-color="#102c34"/></linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#83edcf"/><stop offset="1" stop-color="#c3f884"/></linearGradient>
+    <marker id="arrow" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0 0 7 3.5 0 7" fill="none" stroke="#80baa9" stroke-width="1.1"/></marker>
+  </defs>
+  <rect width="1600" height="620" rx="26" fill="url(#bg)"/>
+  <g fill="none" stroke="#92c1b3" stroke-width="1" opacity=".055">
+    <path d="M-65 455C95 330 124 288 234 324S369 395 458 342s126-17 160 81-38 171-150 169S208 501 123 577-76 639-65 455Z"/>
+    <path d="M-28 450C108 347 139 309 234 345S369 413 449 365s107-3 138 76-36 130-124 128S213 479 133 550-41 601-28 450Z"/>
+    <path d="M7 447c117-84 149-108 229-80s129 66 203 25 90 8 114 66-30 85-92 85-241-86-315-25S-2 568 7 447Z"/>
+    <path d="M42 445c93-65 119-77 195-56s126 70 192 35 70 15 85 47-13 50-53 50-233-83-298-31S38 531 42 445Z"/>
+    <path d="M78 442c76-44 104-46 161-30s120 64 178 43 40 18 42 30-218-54-282-17-103 21-99-26Z"/>
+  </g>
+  <path d="M588 48V572" stroke="#729d99" stroke-opacity=".2"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="54" y="51" width="182" height="31" rx="15.5" fill="#b6ec86" fill-opacity=".11" stroke="#b6ec86" stroke-opacity=".35"/>
+    <circle cx="73" cy="66.5" r="3" fill="#c3f884"/>
+    <text x="86" y="71" fill="#c3f884" font-size="11" font-weight="700" letter-spacing="1.5">IN DEVELOPMENT</text>
+    <text x="54" y="213" fill="#f0f5ed" font-size="96" font-weight="700" letter-spacing="-5">Maldives</text>
+    <text x="58" y="265" fill="#8de4cb" font-size="29" letter-spacing="-.5">AI search &amp; offer engine</text>
+    <path d="M58 304H109" stroke="url(#signal)" stroke-width="3"/>
+    <text x="58" y="359" fill="#d8e6df" font-size="24" letter-spacing="-.3">Making resort contracts</text>
+    <text x="58" y="394" fill="#d8e6df" font-size="24" letter-spacing="-.3">computable.</text>
+    <text x="58" y="524" fill="#b8ccc5" font-size="14">AI interprets. Rules calculate.</text>
+    <text x="58" y="567" fill="#6e9c98" font-size="10" font-weight="700" letter-spacing="2.4">TRAVEL TECHNOLOGY / INDEPENDENTLY BUILT</text>
+
+    <text x="658" y="72" fill="#b3c9c1" font-size="12" font-weight="700" letter-spacing="2.1">SYSTEM DESIGN</text>
+    <path d="M799 67H1449" stroke="#81b5a5" stroke-opacity=".18"/>
+    <text x="1472" y="72" fill="#7da89e" font-size="11" letter-spacing="1.4">01</text>
+
+    <rect x="680" y="125" width="266" height="137" rx="13" fill="#0a2026" stroke="#396167" stroke-opacity=".4"/>
+    <rect x="668" y="137" width="274" height="138" rx="13" fill="url(#box)" stroke="#537d7b" stroke-opacity=".55"/>
+    <text x="691" y="163" fill="#8db4a9" font-size="10" font-weight="700" letter-spacing="1.5">01 / SOURCE DOCUMENTS</text>
+    <text x="691" y="200" fill="#edf3ee" font-size="23" font-weight="700" letter-spacing="-.5">Hotel contracts</text>
+    <g font-size="11" fill="#bed0c9">
+      <rect x="691" y="222" width="51" height="25" rx="5" fill="#2e4a50"/><text x="702" y="238">Rates</text>
+      <rect x="749" y="222" width="70" height="25" rx="5" fill="#2e4a50"/><text x="760" y="238">Seasons</text>
+      <rect x="826" y="222" width="91" height="25" rx="5" fill="#2e4a50"/><text x="837" y="238">Occupancy</text>
+    </g>
+    <path d="M952 205H1008" stroke="#80baa9" stroke-width="1.6" marker-end="url(#arrow)"/>
+    <rect x="1025" y="137" width="481" height="138" rx="13" fill="url(#box)" stroke="#537d7b" stroke-opacity=".55"/>
+    <text x="1051" y="163" fill="#8db4a9" font-size="10" font-weight="700" letter-spacing="1.5">02 / AI INTERPRETATION</text>
+    <text x="1051" y="200" fill="#edf3ee" font-size="25" font-weight="700" letter-spacing="-.4">Document interpretation</text>
+    <text x="1051" y="235" fill="#a8c3b9" font-size="16">Extract terms and source references.</text>
+
+    <path d="M1265 275V293" stroke="#80baa9" stroke-width="1.6"/>
+    <rect x="1025" y="302" width="481" height="60" rx="10" fill="#b6ec86" fill-opacity=".055" stroke="#b6ec86" stroke-opacity=".5" stroke-dasharray="5 5"/>
+    <path d="m1046 332 6 6 11-13" fill="none" stroke="#c3f884" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="1077" y="326" fill="#c3f884" font-size="11" font-weight="700" letter-spacing="1.3">VALIDATE + REVIEW</text>
+    <text x="1077" y="348" fill="#a7bfae" font-size="13">Explicit approval boundary</text>
+    <text x="1467" y="336" fill="#91ad93" font-size="10" font-weight="700">03</text>
+    <path d="M1265 362V382" stroke="#80baa9" stroke-width="1.6" marker-end="url(#arrow)"/>
+
+    <rect x="1025" y="396" width="481" height="121" rx="13" fill="url(#box)" stroke="#537d7b" stroke-opacity=".55"/>
+    <text x="1051" y="423" fill="#8db4a9" font-size="10" font-weight="700" letter-spacing="1.5">04 / RULES ENGINE</text>
+    <text x="1051" y="458" fill="#edf3ee" font-size="25" font-weight="700" letter-spacing="-.4">Deterministic calculation</text>
+    <text x="1051" y="490" fill="#a8c3b9" font-size="15">Validated rates, supplements &amp; eligibility.</text>
+    <path d="M1008 455H958" stroke="#80baa9" stroke-width="1.6" marker-end="url(#arrow)"/>
+    <rect x="668" y="396" width="274" height="121" rx="13" fill="#83edcf" fill-opacity=".075" stroke="#83edcf" stroke-opacity=".55"/>
+    <text x="691" y="423" fill="#92ddc4" font-size="10" font-weight="700" letter-spacing="1.5">05 / EXPLAINABLE OFFER</text>
+    <text x="691" y="458" fill="#edf3ee" font-size="20" font-weight="700" letter-spacing="-.3">Every result, traceable.</text>
+    <text x="691" y="490" fill="#a8c3b9" font-size="14">From output to source terms.</text>
+    <text x="668" y="566" fill="#739e97" font-size="12">Conceptual architecture · Currently in development</text>
+  </g>
+</svg>
